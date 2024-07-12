@@ -17,3 +17,4 @@ Application showcases the latest news articles of the top News Channels out ther
 
 ## Mobile ResponsiveNess
 
+![alt text](https://github.com/namanzzz/NewsMania/blob/master/Screenshot2.png?raw=true)
