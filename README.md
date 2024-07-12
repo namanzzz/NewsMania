@@ -12,4 +12,4 @@ Application showcases the latest news articles of the top News Channels out ther
 
 This is how it look!
 
-![alt text](https://github.com/[namanzzz]/[NewsMania]/blob/[master]/Screenshot.jpg?raw=true)
+![alt text](https://github.com/namanzzz/NewsMania/blob/master/Screenshot.png?raw=true)
