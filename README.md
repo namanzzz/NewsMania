@@ -8,13 +8,13 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Application showcases the latest news articles of the top News Channels out there, such as BBC, CNN, Business Insiders. One can view headlines of different popular newspapers at once using NewsMania.
+# Application showcases the latest news articles of the top News Channels out there, such as BBC, CNN, Business Insiders. One can view headlines of different popular newspapers at once using NewsMania.
 
-## This is how it looks for BBC News!
+### This is how it looks for BBC News!
 
 ![alt text](https://github.com/namanzzz/NewsMania/blob/master/Screenshot.png?raw=true)
 
 
-## Mobile ResponsiveNess
+### Responsiveness with tailwind-css
 
 ![alt text](https://github.com/namanzzz/NewsMania/blob/master/Screenshot2.png?raw=true)
