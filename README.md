@@ -6,3 +6,10 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+Application showcases the latest news articles of the top News Channels out there, such as BBC, CNN, Business Insiders. One can view headlines of different popular newspapers at once using NewsMania.
+
+This is how it look!
+
+![alt text](https://github.com/[namanzzz]/[NewsMania]/blob/[master]/Screenshot.jpg?raw=true)
